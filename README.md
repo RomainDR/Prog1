@@ -1,2 +1,9 @@
 # Prog1
- github
+
+Console de translation de mot
+
+
+## Auteur
+
+- [@Romain](https://github.com/RomainDR)
+
